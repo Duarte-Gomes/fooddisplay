@@ -11,7 +11,7 @@ import { Clipboard } from '@angular/cdk/clipboard';
 })
 export class ChineseComponent implements OnInit {
   private httpClient = inject(HttpClient)
-constructor(private clipboard: Clipboard) {}
+  constructor(private clipboard: Clipboard) {}
 
   copyTitle(text: string) {
     this.clipboard.copy(text);
@@ -19,8 +19,6 @@ constructor(private clipboard: Clipboard) {}
   copyDesc(text: string) {
     this.clipboard.copy(text);
   }
-
-
 
   pratos: any[] = [];
   day = 0;

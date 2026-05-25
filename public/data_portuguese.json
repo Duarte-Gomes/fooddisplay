@@ -19,7 +19,7 @@
     "portugueseName": "Almôndegas com puré de batata",
     "description": "Almôndegas com puré de batata combinam carne picada, alho, cebola, salsa, pão ralado e ovo. Cozinhadas em molho de tomate, servem-se com puré cremoso de batata, leite e manteiga, reconfortante e delicioso.",
     "preco": "12",
-    "imageUrl": "portuguese/almondegas_pure_batata.jpg",
+    "imageUrl": "portuguese/A/almondegas_pure_batata.jpg",
     "diaData": "7",
     "mesData": "10"
   },
@@ -31,7 +31,7 @@
     "portugueseName": "Arroz de pato",
     "description": "O arroz de pato é um prato típico português, preparado com arroz soltinho e carne de pato desfiada. Vai ao forno com enchidos, ficando dourado, aromático e cheio de sabor.",
     "preco": "12",
-    "imageUrl": "portuguese/arroz_pato.jpeg",
+    "imageUrl": "portuguese/A/arroz_pato.jpeg",
     "diaData": "9",
     "mesData": "10"
   },
@@ -55,7 +55,7 @@
     "portugueseName": "Açorda de camarão",
     "description": "Açorda de camarão prepara-se com pão, caldo aromático, alho, coentros e camarões salteados. Mistura-se até ficar cremosa e envolve-se com ovo. Resultado: prato reconfortante, aromático, rico em sabor e tradição.",
     "preco": "12",
-    "imageUrl": "portuguese/acorda_camarao.jpeg",
+    "imageUrl": "portuguese/A/acorda_camarao.jpeg",
     "diaData": "10",
     "mesData": "10"
   },
@@ -67,7 +67,7 @@
     "portugueseName": "Arroz de pota",
     "description": "Arroz de pota prepara-se com pota tenra, cebola, alho, tomate, pimento, azeite e vinho branco. Cozinha-se lentamente, libertando sabores do mar, resultando num prato cremoso, aromático e reconfortante.",
     "preco": "12",
-    "imageUrl": "portuguese/arroz_pota.jpeg",
+    "imageUrl": "portuguese/A/arroz_pota.jpeg",
     "diaData": "10",
     "mesData": "10"
   },
@@ -79,7 +79,7 @@
     "portugueseName": "Bacalhau à Brás",
     "description": "Bacalhau à Brás combina bacalhau desfiado, batata palha, cebola, alho e ovos mexidos. Envolve-se até ficar cremoso, tempera-se com salsa e azeitonas. É tradicional, aromático, reconfortante, simples e delicioso.",
     "preco": "12",
-    "imageUrl": "portuguese/bacalhau_bras.jpg",
+    "imageUrl": "portuguese/B/bacalhau_bras.jpg",
     "diaData": "10",
     "mesData": "10"
   },
@@ -91,7 +91,7 @@
     "portugueseName": "Bacalhau à Gomes de Sá",
     "description": "Bacalhau à Gomes de Sá prepara-se com bacalhau desfiado, batatas, cebola, alho, azeite e ovos cozidos. Leva-se ao forno e serve-se com azeitonas e salsa, prato tradicional e reconfortante.",
     "preco": "12",
-    "imageUrl": "portuguese/bacalhau_gomes_sa.jpg",
+    "imageUrl": "portuguese/B/bacalhau_gomes_sa.jpg",
     "diaData": "10",
     "mesData": "10"
   },
@@ -103,7 +103,7 @@
     "portugueseName": "Bacalhau com natas",
     "description": "Bacalhau com natas é um prato tradicional português, feito com bacalhau desfiado, batata, cebola e natas. Vai ao forno gratinar, ficando cremoso, dourado e muito apreciado em família.",
     "preco": "12",
-    "imageUrl": "portuguese/bacalhau_natas.jpg",
+    "imageUrl": "portuguese/B/bacalhau_natas.jpg",
     "diaData": "10",
     "mesData": "10"
   },
@@ -115,7 +115,7 @@
     "portugueseName": "Bacalhau com broa",
     "description": "Bacalhau com broa prepara-se com bacalhau assado, coberto por broa esfarelada, alho, cebola e azeite. Leva-se ao forno até dourar, resultando num prato aromático, crocante, suculento, tradicional e delicioso.",
     "preco": "12",
-    "imageUrl": "portuguese/bacalhau_broa.jpeg",
+    "imageUrl": "portuguese/B/bacalhau_broa.jpeg",
     "diaData": "10",
     "mesData": "10"
   },
@@ -151,7 +151,7 @@
     "portugueseName": "Caril de camarão",
     "description": "Caril de camarão com arroz prepara-se com camarões, leite de coco, caril, cebola, alho, gengibre e coentros. Cozinha-se até o molho engrossar, servindo-se com arroz branco, prato aromático, exótico e reconfortante.",
     "preco": "12",
-    "imageUrl": "portuguese/caril_camarao.jpeg",
+    "imageUrl": "portuguese/C/caril_camarao.jpeg",
     "diaData": "10",
     "mesData": "10"
   },
@@ -163,7 +163,7 @@
     "portugueseName": "Carne porco à Portuguesa",
     "description": "Carne de porco à portuguesa faz-se com carne de porco, batatas fritas, pimentos, alho, vinho branco e massa de pimentão. Cozinha-se lentamente, resultando num prato saboroso, aromático e tradicional.",
     "preco": "12",
-    "imageUrl": "portuguese/carne_porco_portuguesa.jpeg",
+    "imageUrl": "portuguese/C/carne_porco_portuguesa.jpeg",
     "diaData": "10",
     "mesData": "10"
   },
@@ -175,7 +175,7 @@
     "portugueseName": "Carne de vitela estufada",
     "description": "Carne de vitela estufada é suculenta, macia, rica em sabores, cozida lentamente, aromática, envolvente, nutritiva, reconfortante, intensa, tradicional, equilibrada, tenra, saborosa, caseira, quente, apetitosa, convidativa, simples, elegante, clássica e deliciosa.",
     "preco": "12",
-    "imageUrl": "portuguese/carne_vitela_estufada_pure.jpg",
+    "imageUrl": "portuguese/C/carne_vitela_estufada_pure.jpg",
     "diaData": "10",
     "mesData": "10"
   },
@@ -187,7 +187,7 @@
     "portugueseName": "Cozido à Portuguesa",
     "description": "Cozido à portuguesa é prato tradicional com carnes, enchidos, couves, batatas, cenouras e arroz. Cozido lentamente, une sabores ricos, aromas intensos e tradição, simbolizando conforto e partilha à mesa.",
     "preco": "12",
-    "imageUrl": "portuguese/cozido_portuguesa.webp",
+    "imageUrl": "portuguese/C/cozido_portuguesa.webp",
     "diaData": "10",
     "mesData": "10"
   },
@@ -199,7 +199,7 @@
     "portugueseName": "Entrecosto no forno com batata",
     "description": "Entrecosto no forno com batata prepara-se com entrecosto temperado com alho, louro, vinho branco, azeite e pimentão. Assa lentamente com batatas, ficando dourado, tenro, aromático, suculento e irresistivelmente saboroso.",
     "preco": "12",
-    "imageUrl": "portuguese/entrecosto_forno_batatas.jpg",
+    "imageUrl": "portuguese/E/entrecosto_forno_batatas.jpg",
     "diaData": "10",
     "mesData": "10"
   },
@@ -211,7 +211,7 @@
     "portugueseName": "Empadão de vitela",
     "description": "Empadão de carne prepara-se com vitela, cebola, alho, azeite, louro, polpa de tomate, vinho branco, salsa, puré de batata com leite e manteiga, depois de ir ao forno quente, resulta numa crosta dourada e uma textura cremosa, reconfortante e saborosa.",
     "preco": "12",
-    "imageUrl": "portuguese/empadao_carne.jpg",
+    "imageUrl": "portuguese/E/empadao_carne.jpg",
     "diaData": "10",
     "mesData": "10"
   },
@@ -223,7 +223,7 @@
     "portugueseName": "Ervilhas com ovos escalfados",
     "description": "Ervilhas com ovos escalfados preparam-se com ervilhas frescas, cebola, alho, tomate e azeite. Cozinham-se lentamente até formar molho, juntam-se os ovos, que escalfam suavemente. Prato simples, nutritivo e reconfortante.",
     "preco": "12",
-    "imageUrl": "portuguese/ervilhas_ovos_escalfados.jpeg",
+    "imageUrl": "portuguese/E/ervilhas_ovos_escalfados.jpeg",
     "diaData": "10",
     "mesData": "10"
   },
@@ -235,7 +235,7 @@
     "portugueseName": "Feijoada à transmontana",
     "description": "A Feijoada à Transmontana com feijão, enchidos, carne de porco e legumes. Rico e reconfortante, reflete a gastronomia rústica e saborosa de Trás-os-Montes.",
     "preco": "12",
-    "imageUrl": "portuguese/feijoada_transmontana.jpg",
+    "imageUrl": "portuguese/F/feijoada_transmontana.jpg",
     "diaData": "10",
     "mesData": "10"
   },
@@ -247,7 +247,7 @@
     "portugueseName": "Feijoada de chocos",
     "description": "Feijoada de chocos prepara-se com chocos frescos, feijão branco, cebola, alho, azeite, tomate, pimento, vinho branco, louro, salsa e coentros. Cozinhada lentamente, torna-se suculenta, aromática, nutritiva, reconfortante, tradicional, intensa e deliciosa.",
     "preco": "12",
-    "imageUrl": "portuguese/feijoada_chocos.jpg",
+    "imageUrl": "portuguese/F/feijoada_chocos.jpg",
     "diaData": "10",
     "mesData": "10"
   },
@@ -259,7 +259,7 @@
     "portugueseName": "Filetes de peixe com arroz de tomate",
     "description": "Filetes com arroz de tomate fazem-se com peixe fresco, limão, alho, sal, pimenta, farinha e ovo para panar. O arroz cozinha-se com tomate, cebola, azeite e louro. Juntos, resultam reconfortantes, saborosos, tradicionais e nutritivos.",
     "preco": "12",
-    "imageUrl": "portuguese/filetes_peixe_arroz_tomate.jpg",
+    "imageUrl": "portuguese/F/filetes_peixe_arroz_tomate.jpg",
     "diaData": "10",
     "mesData": "10"
   },
@@ -271,7 +271,7 @@
     "portugueseName": "Frango frito à passarinho",
     "description": "Frango à passarinho faz-se com pedaços pequenos de frango temperados com alho, limão e ervas. Frita-se até dourar, ficando crocante por fora, suculento por dentro, saboroso e irresistível.",
     "preco": "12",
-    "imageUrl": "portuguese/frango_passarinho_frito.webp",
+    "imageUrl": "portuguese/F/frango_passarinho_frito.webp",
     "diaData": "10",
     "mesData": "10"
   },
@@ -283,7 +283,7 @@
     "portugueseName": "Frango estufado com legumes e esparguete",
     "description": "Frango estufado com legumes e esparguete prepara-se com frango, cebola, alho, cenoura, pimento, tomate e vinho branco. Cozinha-se lentamente, servindo-se com esparguete envolvido no molho, prato aromático, nutritivo e reconfortante.",
     "preco": "12",
-    "imageUrl": "portuguese/frango_estufado_legumes_esparguete.jpg",
+    "imageUrl": "portuguese/F/frango_estufado_legumes_esparguete.jpg",
     "diaData": "10",
     "mesData": "10"
   },
@@ -295,7 +295,7 @@
     "portugueseName": "Frango de fricassé",
     "description": "Frango de fricassé é um prato clássico, cremoso, envolvente, com molho de limão, ovos e salsa, sabor delicado, textura macia, tradição portuguesa, conforto, harmonia, simplicidade, elegância, frescura, leveza e prazer gastronómico.",
     "preco": "12",
-    "imageUrl": "portuguese/frango_fricasse.jpg",
+    "imageUrl": "portuguese/F/frango_fricasse.jpg",
     "diaData": "10",
     "mesData": "10"
   },
@@ -307,7 +307,7 @@
     "portugueseName": "Jardineira com feijão verde",
     "description": "Jardineira com feijão verde prepara-se com carne estufada, batatas, cenoura, ervilhas, tomate e feijão verde. Cozinha-se lentamente, criando um prato colorido, nutritivo, aromático e cheio de sabor tradicional.",
     "preco": "12",
-    "imageUrl": "portuguese/jardineira.jpg",
+    "imageUrl": "portuguese/J/jardineira.jpg",
     "diaData": "10",
     "mesData": "10"
   },
@@ -331,7 +331,7 @@
     "portugueseName": "Salsichas com couve lombarda",
     "description": "Salsichas com couve lombarda preparam-se com salsichas frescas, couve lombarda, cebola, alho, azeite, cenoura, tomate e vinho branco. Estufam-se lentamente, libertando aromas intensos, criando um prato reconfortante, saboroso, nutritivo e tradicional.",
     "preco": "12",
-    "imageUrl": "portuguese/salsichas_couve_lombardo.jpg",
+    "imageUrl": "portuguese/S/salsichas_couve_lombardo.jpg",
     "diaData": "10",
     "mesData": "10"
   },
@@ -343,7 +343,7 @@
     "portugueseName": "Carapaus fritos com açorda de alho e coentros",
     "description": "Carapaus fritos com açorda de alho e coentros preparam-se com carapaus fritos, açorda de alho e coentros, cebola, alho, azeite, cenoura, tomate e vinho branco. Estufam-se lentamente, libertando aromas intensos, criando um prato reconfortante, saboroso, nutritivo e tradicional.",
     "preco": "12",
-    "imageUrl": "portuguese/carapaus_fritos_acorda_coentros.jpg",
+    "imageUrl": "portuguese/C/carapaus_fritos_acorda_coentros.jpg",
     "diaData": "10",
     "mesData": "10"
   },
@@ -355,7 +355,7 @@
     "portugueseName": "Carapaus fritos com arroz de feijão",
     "description": "Carapaus fritos com arroz de feijão preparam-se com carapaus fritos, arroz de feijão, cebola, alho, azeite, cenoura, tomate e vinho branco. Estufam-se lentamente, libertando aromas intensos, criando um prato reconfortante, saboroso, nutritivo e tradicional.",
     "preco": "12",
-    "imageUrl": "portuguese/carapaus_fritos_arroz_feijao.jpg",
+    "imageUrl": "portuguese/C/carapaus_fritos_arroz_feijao.jpg",
     "diaData": "10",
     "mesData": "10"
   },
@@ -367,7 +367,7 @@
     "portugueseName": "Carapaus fritos com arroz de tomate",
     "description": "Carapaus fritos com arroz é um prato tradicional português. Os carapaus são temperados, passados por farinha e fritos até dourar, servidos com arroz de tomate solto, sabor caseiro e autêntico.",
     "preco": "12",
-    "imageUrl": "portuguese/carapaus_fritos_arroz_tomate.jpeg",
+    "imageUrl": "portuguese/C/carapaus_fritos_arroz_tomate.jpeg",
     "diaData": "10",
     "mesData": "10"
   },
@@ -427,7 +427,7 @@
     "portugueseName": "Grelhada mista",
     "description": "Grelhada mista reúne várias carnes, como entrecosto, frango, salsichas e febras, temperadas com sal, alho e limão. Grelhadas na brasa, tornam-se suculentas, aromáticas e perfeitas para uma refeição saborosa e convivial.",
     "preco": "12",
-    "imageUrl": "portuguese/grelhada_mista.jpg",
+    "imageUrl": "portuguese/G/grelhada_mista.jpg",
     "diaData": "10",
     "mesData": "10"
   },
@@ -439,7 +439,7 @@
     "portugueseName": "Lombo de porco com batatas assadas no forno",
     "description": "Lombo de porco com batatas assadas no forno tempera-se com alho, louro, pimentão, azeite e vinho branco. Assa lentamente, ficando tenro, aromático, suculento, com batatas douradas e sabor tradicional.",
     "preco": "12",
-    "imageUrl": "portuguese/no.jpg",
+    "imageUrl": "portuguese/L/lombo_de_porco_com_batatas_assadas_no_forno.jpg",
     "diaData": "10",
     "mesData": "10"
   },
@@ -463,7 +463,7 @@
     "portugueseName": "Pernas de frango no forno com batatas rusticas",
     "description": "Pernas de frango no forno com batatas rústicas temperam-se com alho, louro, pimentão, azeite e ervas. Assam lentamente até ficarem douradas, suculentas, aromáticas e cheias de sabor caseiro.",
     "preco": "12",
-    "imageUrl": "portuguese/pernas-de-frango-no-forno-com-batatas.jpg",
+    "imageUrl": "portuguese/P/pernas-de-frango-no-forno-com-batatas.jpg",
     "diaData": "10",
     "mesData": "10"
   },
@@ -487,7 +487,7 @@
     "portugueseName": "Pescada frita com arroz de ervilhas",
     "description": "Pescada frita com arroz de ervilhas prepara-se com lombos temperados, passados por farinha e fritos até dourar. Serve-se com arroz solto cozinhado com ervilhas, num prato leve, tradicional e saboroso.",
     "preco": "12",
-    "imageUrl": "portuguese/pescada_frita_arroz_ervilhas.jpg",
+    "imageUrl": "portuguese/P/pescada_frita_arroz_ervilhas.jpg",
     "diaData": "10",
     "mesData": "10"
   },
@@ -499,7 +499,7 @@
     "portugueseName": "Solha frita com açorda de alho e coentros",
     "description": "Solha frita com açorda de alho e coentros junta peixe delicado, frito até dourar, com açorda cremosa de pão, alho, coentros e caldo aromático. Prato tradicional, reconfortante, equilibrado e cheio de sabor.",
     "preco": "12",
-    "imageUrl": "portuguese/solha_acorda.jpg",
+    "imageUrl": "portuguese/S/solha_acorda.jpg",
     "diaData": "10",
     "mesData": "10"
   },
@@ -535,7 +535,7 @@
     "portugueseName": "Vitela estufada com arroz",
     "description": "Vitela estufada com arroz prepara-se com vitela tenra, cebola, alho, tomate, vinho branco e azeite. Cozinha-se lentamente, criando molho rico e aromático, servido com arroz solto, prato tradicional e reconfortante.",
     "preco": "12",
-    "imageUrl": "portuguese/vitela_estufada_arroz.jpg",
+    "imageUrl": "portuguese/V/vitela_estufada_arroz.jpg",
     "diaData": "10",
     "mesData": "10"
   }
