@@ -1,0 +1,51 @@
+<div class="container-fluid p-0">
+  <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel" data-bs-pause="false">
+    <div class="carousel-inner">
+      @for (item of pratos; track item.nome) {
+        @if(item.diaData == day){
+          <div class="carousel-item" data-bs-interval="4000" style="height: 100vh;">
+            <img [src]="item.imageUrl" class="d-block w-100" style="height: 85vh; object-fit: cover; object-position: center;">
+            <div class="carousel-caption">
+              <h5>{{item.nome}} - {{ item.preco }}€</h5>
+            </div>
+          </div>
+        }
+      }
+
+      <div class="carousel-item px-5 active" data-bs-interval="10000" >
+        <div class="d-flex flex-column  justify-content-center" style="height: 100vh;">
+
+          <div class="row d-flex justify-content-center align-items-stretch">
+            <h2 class="text-center py-5">Pratos Portugueses</h2>
+            @for (item of pratos; track item.nome) {
+              @if(item.tipo == "pt"){
+                <div class="col-2 color-bg-1 p-3">
+                  <p class="m-0">{{item.nome}}</p>
+                </div>
+              }
+            }
+          </div>
+          <div class="row d-flex justify-content-center align-items-center my-5">
+            @for (item of pratos; track item.nome) {
+              @if(item.tipo == "pt"){
+                <div class="col-2 color-bg p-3">
+                  <p class="text-center m-0">{{item.diaSemana}}</p>
+                </div>
+              }
+            }
+          </div>
+          <div class="row d-flex justify-content-center align-items-stretch">
+            @for (item of pratos; track item.nome) {
+              @if(item.tipo == "ch"){
+                <div class="col-2 color-bg p-3">
+                  <p class="m-0">{{item.nome}}</p>
+                </div>
+              }
+            }
+            <h2 class="text-center py-5">Pratos Asiáticos</h2>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

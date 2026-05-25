@@ -1,5 +1,5 @@
 {
-  "name": "fooddisplay",
+  "name": "menu",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -7,7 +7,7 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "serve:ssr:fooddisplay": "node dist/fooddisplay/server/server.mjs"
+    "serve:ssr:menu": "node dist/menu/server/server.mjs"
   },
   "prettier": {
     "overrides": [
@@ -21,15 +21,19 @@
   },
   "private": true,
   "dependencies": {
+    "@angular/cdk": "^21.2.3",
     "@angular/common": "^20.1.0",
     "@angular/compiler": "^20.1.0",
     "@angular/core": "^20.1.0",
+    "@angular/fire": "^20.0.1",
     "@angular/forms": "^20.1.0",
     "@angular/platform-browser": "^20.1.0",
     "@angular/platform-server": "^20.1.0",
     "@angular/router": "^20.1.0",
     "@angular/ssr": "^20.1.3",
+    "bootstrap": "^5.3.7",
     "express": "^5.1.0",
+    "firebase": "^12.2.1",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.15.0"

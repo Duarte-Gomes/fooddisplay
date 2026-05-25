@@ -1,0 +1,47 @@
+.main-title {
+  font-size: 60px;
+  font-weight: 500;
+  color: black;
+  text-transform: uppercase;
+
+}
+
+.image-container {
+  position: relative;
+
+  .image {
+    border-radius: 10px 60px;
+  }
+  .price-container {
+    position: absolute;
+    bottom: 30px;
+    right: 50px;
+    background-color: #ff9900;
+    padding: 25px;
+    border-radius: 5px 20px;
+
+    .price {
+      margin-bottom: 0;
+      font-size: 46px;
+      font-weight: 700;
+      color: white;
+      text-shadow: 2px 2px black;
+      line-height: 1;
+    }
+  }
+}
+
+.name {
+  font-size: 50px;
+}
+
+.color-bg:nth-child(odd) {
+background-color: #ff9900;
+
+}
+.color-bg-1:nth-child(even) {
+background-color: #ff9900;
+
+}
+
+

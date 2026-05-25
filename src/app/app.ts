@@ -1,12 +1,29 @@
-import { Component, signal } from '@angular/core';
-import { RouterOutlet } from '@angular/router';
+import { HttpClient } from '@angular/common/http';
+import { Component, inject, OnInit } from '@angular/core';
+import { RouterModule, RouterOutlet } from '@angular/router';
 
 @Component({
   selector: 'app-root',
-  imports: [RouterOutlet],
+  standalone: true,
+  imports: [RouterOutlet, RouterModule],
   templateUrl: './app.html',
   styleUrl: './app.scss'
 })
-export class App {
-  protected readonly title = signal('fooddisplay');
+export class App implements OnInit{
+
+  private httpClient = inject(HttpClient)
+
+  day = 0;
+
+  pratos: any[] = [];
+
+  ngOnInit() {
+
+    const time = new Date();
+    this.day = time.getDate();
+
+    this.httpClient.get<any>('/data.json').subscribe(res => {
+      this.pratos = res;
+    })
+  }
 }
