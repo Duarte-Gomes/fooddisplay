@@ -471,18 +471,6 @@
     "diaSemana": "",
     "tipo": "pt",
     "activo": false,
-    "chineseName": "烤火鸡土豆",
-    "portugueseName": "Perna de perú no forno com batata",
-    "description": "Perna de perú no forno com batata combina carne macia, alho, cebola, azeite, vinho branco, louro, pimenta, sal, cenoura, batata dourada, ervas aromáticas, tomate, limão, sabor intenso, suculento, tradicional, nutritivo e reconfortante.",
-    "preco": "12",
-    "imageUrl": "portuguese/no.jpg",
-    "diaData": "10",
-    "mesData": "10"
-  },
-  {
-    "diaSemana": "",
-    "tipo": "pt",
-    "activo": false,
     "chineseName": "",
     "portugueseName": "Pescada frita com arroz de ervilhas",
     "description": "Pescada frita com arroz de ervilhas prepara-se com lombos temperados, passados por farinha e fritos até dourar. Serve-se com arroz solto cozinhado com ervilhas, num prato leve, tradicional e saboroso.",
